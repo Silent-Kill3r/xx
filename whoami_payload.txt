@@ -1,1 +1,1 @@
-<?php echo shell_exec('whoami'); ?>
+PD9waHAgZWNobyBzaGVsbF9leGVjKCd3aG9hbWknKTsgPz4=
