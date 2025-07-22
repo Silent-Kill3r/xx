@@ -16,6 +16,6 @@ if (isset($_GET['do']) && $_GET['do'] == '1') {
     unlink(__FILE__);
     exit;
 } else {
-    echo "ultra";
+    echo "ultranoob";
 }
 ?>
